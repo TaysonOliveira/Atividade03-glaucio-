@@ -2,7 +2,7 @@ let nomes = ["Tayson","Jessica","Carlos","Lucivania","Renata"];
 console.log(nomes[2]);
 
 nomes.push("Carla");
-nomes.unshift    ("João");
+nomes.unshift("João");
 nomes.pop();
 console.log("Array atualizado: ", nomes);
 
